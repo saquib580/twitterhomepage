@@ -1,0 +1,106 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#imag1{
+    width:850px;
+    height:670px;
+    float: left;
+}
+#div1{
+    float: left;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+#username,#pasword{
+    border: 1px solid #aeb1b3;
+    padding:17px;
+    border-radius: 8px;
+    font-size: 20px;
+    width: 195px;
+    color: #a2aeb9;
+    padding-left: 8px;
+    padding-right: 0px;
+    padding-bottom: 17px;
+    padding-top:17px;
+    margin-bottom: 10px;
+}
+#pasword{
+    margin-left: 10px;
+}
+#submit{
+    border:1px solid #1a91da ;
+    background-color: white;
+    width: 113px;
+    padding: 15px;
+    font-size: 17px;
+    color: #1a91da;
+    border-radius: 30px;
+    font-weight: bold;
+    margin-left: 15px;
+}
+#submit:hover{
+    cursor: pointer;
+    background-color: #e8f5fe;
+}
+#a1{
+    color: #48aae6;
+    text-decoration: none;
+    margin-left: 230px;
+}
+#a1:hover{
+    text-decoration: underline;
+   
+}
+.fa-twitter{
+    color: #1da1f2;
+    font-size: 50px;
+    margin-top: 30px;
+}
+h1{
+    font-size: 80px;
+    margin-bottom: 40px;
+}
+h2{
+    font-size: 37px;
+    
+}
+#button1{
+    width: 370px;
+    border: 1px solid #1a91da;
+    background-color: #1a91da;
+    color: white;
+    font-weight: bold;
+    padding: 13px;
+    border-radius: 30px;
+    opacity: 0.9;
+    font-size: 16px;
+    margin-bottom: 19px;
+}
+#button1:hover{
+    cursor: pointer;
+    opacity: 1;
+}
+#button2{
+    width: 370px;
+    border: 1px solid #1a91da;
+    font-weight: bold;
+    padding: 13px;
+    border-radius: 30px;
+    background-color: white;
+    color: #1a91da;
+    font-size: 17px;
+}
+#button2:hover{
+    background-color: #e8f5fe;
+    cursor: pointer;
+}
+#div2{
+    margin-top: 666px;
+}
+#a2{
+    color: #5b7083;
+    text-decoration: none;
+    margin-right: 12px;
+    font-size: 13px;
+}
